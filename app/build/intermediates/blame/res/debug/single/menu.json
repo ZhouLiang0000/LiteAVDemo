@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android_studio_app\\android_studio_demo\\LiteAVDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\player_menu.xml",
+        "source": "D:\\android_studio_app\\android_studio_demo\\LiteAVDemo\\app\\src\\main\\res\\menu\\player_menu.xml"
+    },
+    {
+        "merged": "D:\\android_studio_app\\android_studio_demo\\LiteAVDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_rtmp_room_demo.xml",
+        "source": "D:\\android_studio_app\\android_studio_demo\\LiteAVDemo\\app\\src\\main\\res\\menu\\menu_rtmp_room_demo.xml"
+    }
+]

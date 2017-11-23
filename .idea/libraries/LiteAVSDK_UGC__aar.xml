@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="LiteAVSDK_UGC:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/LiteAVSDK_UGC/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/LiteAVSDK_UGC/jars/libs/LiteAVSDK_UGC.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/LiteAVSDK_UGC/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
